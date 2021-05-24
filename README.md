@@ -1,2 +1,2 @@
 # SmartHomeSystem
-I created smart home system with using XBee
+I created smart home system using with XBee
